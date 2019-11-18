@@ -1,0 +1,2 @@
+# TeamAufgabe_Gruppe2
+TeamAufgabe Informationselektronik
