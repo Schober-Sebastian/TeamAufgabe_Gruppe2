@@ -1,0 +1,17 @@
+{
+  "name": "nodejstopics",
+  "version": "1.0.0",
+  "description": "Subscriber mqtt",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "mqtt": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Penzinger",
+  "license": "ISC"
+}
