@@ -1,0 +1,92 @@
+﻿[{
+        "oiltemperature": 72,
+        "unit": "F",
+        "oil-pressure": 2.13456,
+        "viscosity": 9.3,
+        "temperature": 77,
+        "latitude": 35.15625,
+        "longitude": 53.748711,
+        "counter": 1787
+    },
+    {
+        "oiltemperature": 74,
+        "unit": "F",
+        "oil-pressure": 2.13456,
+        "viscosity": 9.3,
+        "temperature": 77,
+        "latitude": 35.15625,
+        "longitude": 53.748711,
+        "counter": 1711
+    },
+    {
+        "oiltemperature": 65,
+        "unit": "F",
+        "oil-pressure": 2.13456,
+        "viscosity": 9.3,
+        "temperature": 77,
+        "latitude": 35.15625,
+        "longitude": 53.748711,
+        "counter": 1712
+    },
+    {
+        "oiltemperature": 63,
+        "unit": "F",
+        "oil-pressure": 2.13456,
+        "viscosity": 9.3,
+        "temperature": 77,
+        "latitude": 35.15625,
+        "longitude": 53.748711,
+        "counter": 3456
+    },
+    {
+        "oiltemperature": 84,
+        "unit": "F",
+        "oil-pressure": 2.13456,
+        "viscosity": 9.3,
+        "temperature": 77,
+        "latitude": 35.15625,
+        "longitude": 53.748711,
+        "counter": 2665
+    },
+    {
+        "oiltemperature": 75,
+        "unit": "F",
+        "oil-pressure": 2.13456,
+        "viscosity": 9.3,
+        "temperature": 77,
+        "latitude": 35.15625,
+        "longitude": 53.748711,
+        "counter": 4587
+    },
+    {
+        "oiltemperature": 13,
+        "unit": "F",
+        "oil-pressure": 2.13456,
+        "viscosity": 9.3,
+        "temperature": 77,
+        "latitude": 35.15625,
+        "longitude": 53.748711,
+        "counter": 2787
+    },
+    {
+        "oiltemperature": 74,
+        "unit": "F",
+        "oil-pressure": 2.13456,
+        "viscosity": 9.3,
+        "temperature": 77,
+        "latitude": 35.15625,
+        "longitude": 53.748711,
+        "counter": 1737
+    },
+    {
+        "oiltemperature": 75,
+        "unit": "F",
+        "oil-pressure": 2.13456,
+        "viscosity": 9.3,
+        "temperature": 77,
+        "latitude": 35.15625,
+        "longitude": 53.748711,
+        "counter": 2787
+    }
+
+]
